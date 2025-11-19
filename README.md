@@ -26,7 +26,7 @@ This tool recursively searches for Python files in a specified directory and obf
 ### Method 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/python-obfuscator.git
+git clone https://github.com/platinstudio/Python_obfuscation.git
 cd python-obfuscator
 ```
 
